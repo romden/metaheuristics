@@ -1,0 +1,19 @@
+crossover_probability_CR 1.000000 
+
+scaling_factor_F 0.500000 
+
+mutation_probability_pm 0.100000 
+
+mutation_distribution_index_etam 20.000000 
+
+probability_for_mating_pool_delta 0.900000 
+
+neighborhood_size_T 20 
+
+param_for_Lpnorm_p 2 
+
+closest_to_check_dominance_k 1 
+
+population_size_mu 300 
+
+stopping_criterion_maxEval 300000 
